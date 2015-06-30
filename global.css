@@ -64,6 +64,7 @@ h3 {
   background-image: url("./part3/wood-bg.png");
   background-repeat: repeat-y;
   text-align: center;
+  
 }
 
 #part3 h1 {
@@ -84,7 +85,19 @@ h3 {
   padding: 100px 0 20px;
 }
 
+.schedulepart {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  margin: 15px;
+  font-size: small;
+}
+
 .timebox {
-  border: 2px solid;
-  border-radius: 25px;
+  font-family: 'Rokkitt', serif;
+  border: 3px solid rgb(191, 75, 52);
+  border-radius: 200px;
+}
+
+#part3 .timebox h1 {
+  color: white;
 }
