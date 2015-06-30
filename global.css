@@ -98,6 +98,10 @@ h3 {
   font-size: small;
 }
 
+.lastschedulepart {
+  margin: 50px 20px 0;
+}
+
 .timebox {
   font-family: 'Rokkitt', serif;
   border: 3px solid rgb(191, 75, 52);
