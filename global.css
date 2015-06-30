@@ -29,9 +29,13 @@ h3 {
 }
 
 #dashes {
-  margin: 75px 0;
-  padding: 25px 0;
-  text-align: right;
+  background-image: url("./part2/dash-horizontal.png");
+  background-repeat: repeat-x;
+}
+
+#dashes p{
+  height: 5px;
+  margin: 80px;
 }
 
 #part2 {
