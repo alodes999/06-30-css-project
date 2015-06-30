@@ -126,3 +126,20 @@ h3 {
 #part3 .schedulepart h2 {
   font-weight: normal;
 }
+
+#part4 {
+  color: rgb(141, 91, 49);
+  background-color: rgb(200, 236, 246);
+  text-align: center;
+  padding: 60px 20px 0;
+}
+
+#part4 ul {
+  text-align: left;
+  -webkit-padding-start: 25px;
+  list-style-image: url("./part4/plus-bullet.png");
+}
+
+#part4 ul li {
+  margin: 40px 0 0 0;
+}
