@@ -63,4 +63,28 @@ h3 {
 #part3 {
   background-image: url("./part3/wood-bg.png");
   background-repeat: repeat-y;
+  text-align: center;
+}
+
+#part3 h1 {
+  color: rgb(205, 190, 38);
+  font-size: -webkit-xxx-large; 
+  margin-bottom: 0;
+}
+
+#part3 h3 {
+  text-align: center;
+  color: white;
+  margin: 0 10px;
+  font-size: larger;
+}
+
+#part3 img {
+  width: 90%;
+  padding: 100px 0 20px;
+}
+
+.timebox {
+  border: 2px solid;
+  border-radius: 25px;
 }
