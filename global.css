@@ -54,6 +54,10 @@ h3 {
   border-bottom: thin solid rgb(156, 156, 156);;
 }
 
+.lasttalksection {
+  border-bottom: none;
+}
+
 .talksection ul {
   color: rgb(112, 79, 42);
   list-style: none;
