@@ -88,16 +88,31 @@ h3 {
 .schedulepart {
   font-family: 'Roboto', sans-serif;
   color: white;
-  margin: 15px;
+  margin: 50px 20px 50px;
   font-size: small;
 }
 
 .timebox {
   font-family: 'Rokkitt', serif;
   border: 3px solid rgb(191, 75, 52);
-  border-radius: 200px;
+  border-radius: 75px;
+  width: 75px;
+  height: 75px;
+  margin-left: 120px
 }
 
 #part3 .timebox h1 {
   color: white;
+  margin: 0;
+  padding: 5px 5px 0;
+}
+
+#part3 .timebox h3{
+  position: relative;
+  top: -10px;
+  left: -3px;
+}
+
+#part3 .schedulepart h2 {
+  font-weight: normal;
 }
